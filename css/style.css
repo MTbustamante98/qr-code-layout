@@ -32,8 +32,8 @@ img {
   border-radius: 10px;
 }
 
-.imagem {
-  padding: 20px 0;
+.imagem-container {
+  padding: 20px 20px;
 }
 
 h1 {
@@ -57,7 +57,7 @@ h1 {
   bottom: 0;
   width: 100%;
   font-size: 1rem; 
-  text-align: center; 
+  text-align: center;
 }
   
 .attribution a { 
